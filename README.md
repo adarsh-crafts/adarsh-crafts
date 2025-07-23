@@ -1,11 +1,11 @@
-# Hi, I'm Adarsh 👋
+# Hi, I'm Adarsh!
 
 I'm an MSc Data Science student passionate about Machine Learning, with a focus on healthcare applications, multimodal systems, and large language models.
 
 🚀 I love building and researching AI systems — from foundational models to real-world applications.
 
-🔗 <strong>Explore my work and blog:</strong>  
-<a href="https://adarsh-crafts.github.io/" target="_blank">🌐 adarsh-crafts.github.io</a>
+🔗 <strong>Explore my full portfolio, publications, and blog:</strong>  
+🌐 <a href="https://adarsh-crafts.github.io/" target="_blank"> adarsh-crafts.github.io</a>
 
 ---
 
