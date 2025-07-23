@@ -8,7 +8,7 @@ I'm an MSc Data Science student exploring the frontiers of Machine Learning, wit
 - Transformer models (like LLaMA) from scratch for educational deep dives
 
 🔗 **Check out my full portfolio and research blog here**  
-👉 [adarsh-portfolio]([https://adarsh-ai.vercel.app](https://adarsh-crafts.github.io/))
+👉 [adarsh-portfolio](https://adarsh-crafts.github.io/)
 
 ---
 
