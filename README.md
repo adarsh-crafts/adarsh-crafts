@@ -7,21 +7,23 @@ I'm an MSc Data Science student exploring the frontiers of Machine Learning, wit
 - LLMs trained on personal data to mimic user behavior
 - Transformer models (like LLaMA) from scratch for educational deep dives
 
-🔗 **Check out my full portfolio and research blog here**  
-👉 [adarsh-portfolio](https://adarsh-crafts.github.io/)
+🔗 <strong>Check out my full portfolio and research blog here</strong><br>
+👉 <a href="https://adarsh-crafts.github.io/" target="_blank">adarsh-portfolio</a>
 
 ---
 
 ### ⚡ A Glimpse of My Work
 
-- 🧠 **LLM From Scratch**: Training and building a LLaMA-style transformer from the ground up
-- 🤖 **Sign Language Translator**: Video to English pipeline using CNNs and fine-tuned T5
-- 🩺 **Medical VLM Research**: InternLM-XComposer2 adaptation to the chest X-ray domain
+- 🧠 <strong>LLM From Scratch</strong>: Training and building a LLaMA-style transformer from the ground up  
+- 🤖 <strong>Sign Language Translator</strong>: Video to English pipeline using CNNs and fine-tuned T5  
+- 🩺 <strong>Medical VLM Research</strong>: InternLM-XComposer2 adaptation to the chest X-ray domain
 
 ---
 
-📬 **Let's Connect**  
-[LinkedIn](https://www.linkedin.com/in/adarshn-256455279/) | [Medium](https://medium.com/@adarsh-ai)
+📬 <strong>Let's Connect</strong><br>
+<a href="https://www.linkedin.com/in/adarshn-256455279/" target="_blank">LinkedIn</a> |
+<a href="https://medium.com/@adarsh-ai" target="_blank">Medium</a>
+
 
 
 
