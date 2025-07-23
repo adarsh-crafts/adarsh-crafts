@@ -1,28 +1,18 @@
 # Hi, I'm Adarsh 👋
 
-I'm an MSc Data Science student exploring the frontiers of Machine Learning, with a special focus on healthcare, multimodal systems, and large language models.
+I'm an MSc Data Science student passionate about Machine Learning, with a focus on healthcare applications, multimodal systems, and large language models.
 
-🚀 I build things like:
-- Vision-Language Models for medical imaging
-- LLMs trained on personal data to mimic user behavior
-- Transformer models (like LLaMA) from scratch for educational deep dives
+🚀 I love building and researching AI systems — from foundational models to real-world applications.
 
-🔗 <strong>Check out my full portfolio and research blog here</strong><br>
-👉 <a href="https://adarsh-crafts.github.io/" target="_blank">adarsh-portfolio</a>
-
----
-
-### ⚡ A Glimpse of My Work
-
-- 🧠 <strong>LLM From Scratch</strong>: Training and building a LLaMA-style transformer from the ground up  
-- 🤖 <strong>Sign Language Translator</strong>: Video to English pipeline using CNNs and fine-tuned T5  
-- 🩺 <strong>Medical VLM Research</strong>: InternLM-XComposer2 adaptation to the chest X-ray domain
+🔗 <strong>Explore my work and blog:</strong>  
+<a href="https://adarsh-crafts.github.io/" target="_blank">🌐 adarsh-crafts.github.io</a>
 
 ---
 
 📬 <strong>Let's Connect</strong><br>
 <a href="https://www.linkedin.com/in/adarshn-256455279/" target="_blank">LinkedIn</a> |
-<a href="https://medium.com/@adarsh-ai" target="_blank">Medium</a>
+<a href="https://medium.com/@adarsh-ai" target="_blank">Medium</a> |
+
 
 
 
